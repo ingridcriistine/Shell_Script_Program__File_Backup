@@ -27,5 +27,7 @@ indicado no terminal do seu computador através dos comandos abaixo:
 TRABALHO REALIZADO POR:
 
 AMANDA CRISTINA DA SILVA DE LIMA
+
 INGRID CRISTINE ROCHA
+
 MILENA CALEGARI DOURADO
