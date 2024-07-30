@@ -22,7 +22,7 @@ indicado no terminal do seu computador através dos comandos abaixo:
 
     Após isso o programa já irá começar a ser executado normalmente e será possível testá-lo em sua máquina.
 
-
+           
 
 TRABALHO REALIZADO POR:
 
